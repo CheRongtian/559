@@ -1,1 +1,1 @@
-# record the work for course 559
+# Some math from book Data Science from Scratch 2nd edition
